@@ -1,0 +1,27 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.log
+*.tmp
+*.swp
+
+# Ignore PDF output files (optional)
+pdf/*.pdf
+
+# Ignore node_modules if you ever use any tooling
+node_modules/
+
+# Ignore Mac OS generated files
+__MACOSX/
+
+# Ignore build artifacts
+dist/
+build/
+
+# Ignore zip archives
+*.zip
